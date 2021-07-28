@@ -89,6 +89,5 @@
 <br />
 
 ## Github Stats
-<p align="left">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Souvik-Nayak&show_icons=true&count_private=true&hide_border=true" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souvik-Nayak&hide_border=true&layout=compact" /></p>  
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Souvik-Nayak&show_icons=true&count_private=true&hide_border=true" width="500" height="500" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souvik-Nayak&hide_border=true&layout=compact" width="500" height="500" />
