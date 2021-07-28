@@ -89,4 +89,4 @@
 <br />
 
 ## Github Stats
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Souvik-Nayak&show_icons=true&count_private=true&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Souvik-Nayak&show_icons=true&count_private=true&hide_border=true" />
