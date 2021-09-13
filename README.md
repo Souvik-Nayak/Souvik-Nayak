@@ -14,7 +14,7 @@
 - 🔭 I’m currently building web related projects
   
 
-- 🌱 I’m looking for help with finding internship/job opportunity
+- 🌱 I’m looking for help with finding internship opportunity
   
 
 - ❓  Ask me about NodeJS, JavaScript, React and MongoDB  
