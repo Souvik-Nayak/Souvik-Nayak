@@ -11,13 +11,13 @@
 
 
 
-- 🔭 I’m currently building projects  
+- 🔭 I’m currently building web related projects
   
 
-- 🌱 I’m currently learning Docker and Canvas API  
+- 🌱 I’m looking for help with finding internship/job opportunity
   
 
-- ❓ Ask me about NodeJS, JavaScript, React and MongoDB  
+- ❓  Ask me about NodeJS, JavaScript, React and MongoDB  
   
 
 - ⚡ Fun fact: I like to keep my night shift activated 24 x 7  
