@@ -10,7 +10,7 @@
 
 - 📫 Reach me at **nayaksouvik786@gmail.com**
 
-- ⚡ Fun fact : I like to keep my night shift activated 24 x 7
+- ⚡ Fun fact : I like to keep my night shift activated 24 x 7 !
 
 <h3 align="left">Connect with Me :</h3> 
 <div align="center">
