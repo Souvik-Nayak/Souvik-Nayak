@@ -1,14 +1,17 @@
-# <div align="center">Hi <img src="./wave.gif" height="50"> I'm Souvik Nayak</div> 
+# <div align="center">Hi <img src="./wave.gif" height="40" style="margin-top: -10rem"> I'm Souvik Nayak</div> 
 <br/>
 
-<p align="left">
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=Souvik-Nayak&&style=flat-square" align="center" />
 </p>
 
 - 🔭 I’m currently building web related projects
+
 - 🌱 I’m looking for help with finding internship opportunity
+
 - ❓  Ask me about NodeJS, JavaScript, React and MongoDB
-- ⚡ Fun fact: I like to keep my night shift activated 24 x 7  
+
+- ⚡ Fun fact: I like to keep my night shift activated 24 x 7 
 
 <br />
 
