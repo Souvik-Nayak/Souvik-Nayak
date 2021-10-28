@@ -1,9 +1,7 @@
 <h1 align="center">Hi <img src="./wave.gif" height="42">, I'm Souvik</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Souvik-Nayak&label=Profile%20views&color=0e75b6&style=flat" alt="souvik-nayak" /> </p>
-
-<br />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Souvik-Nayak&label=Profile%20views&color=0e75b6&style=flat" alt="souvik-nayak" /> </p>
 
 - 🔭 I’m currently building web related projects
 
@@ -35,6 +33,6 @@
 
 ## Github Stats 
 <div>
-  <img width="50%" align="left"src="https://github-readme-stats.vercel.app/api?username=Souvik-Nayak&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center"/>
-  <img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=souvik-nayak&theme=radical" alt="souvik-nayak" />
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=Souvik-Nayak&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center"/>
+  <img width="45%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=souvik-nayak&theme=radical" alt="souvik-nayak" />
 </div>
