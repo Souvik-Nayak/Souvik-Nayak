@@ -3,9 +3,16 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Souvik-Nayak&label=Profile%20views&color=0e75b6&style=flat" alt="souvik-nayak" /> </p>
 
+<br />
+
 - 🔭 I’m currently building web related projects
-- 🌱 I’m looking for help with finding internship opportunity
+
+- 🌱 I’m looking to collaborate on new ideas
+
 - ❓  Ask me about NodeJS, JavaScript, React and MongoDB
+
+- 📫 Reach me at **nayaksouvik786@gmail.com**
+
 - ⚡ Fun fact: I like to keep my night shift activated 24 x 7 
 
 <br />
@@ -27,7 +34,7 @@
 
 
 ## Github Stats 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Souvik-Nayak&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" /></div>
-
-
-
+<div>
+  <img width="50%" align="left"src="https://github-readme-stats.vercel.app/api?username=Souvik-Nayak&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center"/>
+  <img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=souvik-nayak&theme=radical" alt="souvik-nayak" />
+</div>
