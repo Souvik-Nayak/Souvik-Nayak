@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently building **web related projects**
 
-- 🌱 I’m looking to collaborate on **new ideas**
+- 🌱 I’m looking to collaborate on **new ideas !**
 
 - 💬 Ask me about **MERN | MEAN Stack**
 
