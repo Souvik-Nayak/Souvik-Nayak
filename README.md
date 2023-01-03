@@ -6,7 +6,7 @@
 
 - 🌱 I’m looking to collaborate on **new ideas !**
 
-- 💬 Ask me about **MERN | MEAN Stack**
+- 💬 Ask me anything about **MERN | MEAN Stack**
 
 - 📫 Reach me at **nayaksouvik786@gmail.com**
 
