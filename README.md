@@ -2,7 +2,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Souvik-Nayak&label=Profile%20views&color=0e75b6&style=flat" alt="souvik-nayak" /> </p>
 
-- 🔭 I’m currently building **web related projects**
+- 🔭 I’m currently building **web 3.0 related projects**
 
 - 🌱 I’m looking to collaborate on **new ideas !**
 
